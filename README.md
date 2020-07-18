@@ -18,7 +18,7 @@ CRUD
 
 -Remove  a product in the database
 
-### `If you liked please leave the star!`
+### `If you liked, please leave the star!`
 
 
 
